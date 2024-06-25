@@ -20,8 +20,7 @@ deixando comentados para que vcs possam entender, os que estiverem interesados, 
 
 ## Resultado do projeto finalizado:
 
-
-
+https://github.com/Igornalves/Project_School-Poo/assets/134658180/4574ed82-5a12-47df-8072-fe5ddfd5cd86
 
 ---
 
