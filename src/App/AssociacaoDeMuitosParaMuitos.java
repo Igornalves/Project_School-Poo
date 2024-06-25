@@ -125,7 +125,7 @@ public class AssociacaoDeMuitosParaMuitos {
         professor3.adcionarTurmas(turma1);
 
         System.out.println(
-                "Estas são todas as materias que a turma " + turma1.getAno() + " " + turma1.getSigla() + " vão ter: ");
+                "\nEstas são todas as materias que a turma " + turma1.getAno() + " " + turma1.getSigla() + " vão ter: ");
 
         for (int r = 0; r < turma1.quantidadeDeDisciplinas(); r++) {
             System.out.println("\n" + r + " - " + turma1.getDisciplina(r).getNomeDisciplina());
