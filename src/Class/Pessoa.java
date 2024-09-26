@@ -5,7 +5,8 @@ public class Pessoa {
     private String nome;
     private int matricula;
 
-    public Pessoa(){}
+    public Pessoa() {
+    }
 
     public Pessoa(String nome, int matricula) {
         this.nome = nome;
